@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../html"
+		},
+		{
+			"name": "Document proyecto_files",
+			"path": "../Document proyecto_files"
+		},
+		{
+			"path": "../boostrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Document proyecto_files"
+	}
+}
